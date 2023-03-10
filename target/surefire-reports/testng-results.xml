@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70" started-at="2023-03-10T13:01:26 IST" finished-at="2023-03-10T13:01:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="70" started-at="2023-03-10T13:01:26 IST" finished-at="2023-03-10T13:01:26 IST">
+      <class name="practice.PracticeClass2">
+        <test-method status="PASS" signature="main2()[pri:0, instance:practice.PracticeClass2@396f6598]" name="main2" duration-ms="1" started-at="2023-03-10T13:01:26 IST" finished-at="2023-03-10T13:01:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main2 -->
+        <test-method status="PASS" signature="main21()[pri:0, instance:practice.PracticeClass2@396f6598]" name="main21" duration-ms="1" started-at="2023-03-10T13:01:26 IST" finished-at="2023-03-10T13:01:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main21 -->
+      </class> <!-- practice.PracticeClass2 -->
+      <class name="practice.PracticeClass1">
+        <test-method status="PASS" signature="main1()[pri:0, instance:practice.PracticeClass1@51cdd8a]" name="main1" duration-ms="11" started-at="2023-03-10T13:01:26 IST" finished-at="2023-03-10T13:01:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main1 -->
+        <test-method status="PASS" signature="main11()[pri:0, instance:practice.PracticeClass1@51cdd8a]" name="main11" duration-ms="0" started-at="2023-03-10T13:01:26 IST" finished-at="2023-03-10T13:01:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main11 -->
+      </class> <!-- practice.PracticeClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
